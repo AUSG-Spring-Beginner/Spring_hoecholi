@@ -29,3 +29,15 @@
 |열한번째 주||||
 |열두번째 주||||
 |열세번째 주||||
+
+<br> <br>
+
+## Contributors ✨
+
+<table>
+  <tr>
+  <td align="center"><a href="https://github.com/Ohyaelim"><img src="https://avatars3.githubusercontent.com/Ohyaelim?v=4?s=100" width="100px;" alt=""/><br /  ><sub><b>Yaelim</b></sub></a><br /></td>
+    <td align="center"><a href="https://github.com/wjdrbs96"><img src="https://avatars0.githubusercontent.com/wjdrbs96?v=4?s=100" width="100px;" alt=""/><br /><sub><b>Gyunny</b></sub></a><br /></td>
+    <td align="center"><a href="https://github.com/plzprayme"><img src="https://avatars3.githubusercontent.com/plzprayme?v=4?s=100" width="100px;" alt=""/><br /><sub><b>Seong Chan</b></sub></a><br /></td>
+  </tr>
+</table>
