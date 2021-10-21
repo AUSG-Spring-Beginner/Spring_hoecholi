@@ -1,8 +1,13 @@
 # 스프링 회초리단
 
-## Spring 회초리단 스터디
+## AUSG Spring 스터디
 ![image](https://user-images.githubusercontent.com/45676906/130014098-b21c8c03-6ad5-4fc1-a323-acbf82a26109.jpeg)
 
+<br>
+
+## 스터디 책
+
+![555](https://user-images.githubusercontent.com/45676906/138277864-c43e8bfe-89fb-475e-b02f-858fc358e787.jpeg)
 
 <br>
 
